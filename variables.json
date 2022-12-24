@@ -1,0 +1,13 @@
+{
+  "name": "alfresco",
+  "trademark": "Alfresco",
+  "version": "7.0.0",
+  "fork_url": "https://docs.alfresco.com/content-services/latest/install/containers/docker-compose",
+  "requirements":{
+    "cpu": "2",
+    "memory": "4",
+    "disk": "20",
+    "url": "https://docs.alfresco.com/content-services/latest/install/containers/docker-compose"
+  }
+
+}
