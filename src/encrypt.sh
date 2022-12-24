@@ -4,6 +4,6 @@ clear
 
 pip3 install passlib >/dev/null 2>&1
 echo "$1" > /tmp/password
-cd /alfresco/src
+cd /root/alfresco/src
 python3 encryption.py > /dev/null
 cat /tmp/password
